@@ -1,0 +1,10 @@
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\bin\Debug\字幕遮挡器.exe.config
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\bin\Debug\字幕遮挡器.exe
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\bin\Debug\字幕遮挡器.pdb
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\obj\Debug\字幕遮挡器.csprojAssemblyReference.cache
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\obj\Debug\字幕遮挡器.Properties.Resources.resources
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\obj\Debug\字幕遮挡器.csproj.GenerateResource.cache
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\obj\Debug\字幕遮挡器.csproj.CoreCompileInputs.cache
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\obj\Debug\字幕遮挡器.exe
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\obj\Debug\字幕遮挡器.pdb
+H:\C#\other\workPlace others\字幕遮挡器\字幕遮挡器\obj\Debug\字幕遮挡器.outSubtitle.resources
